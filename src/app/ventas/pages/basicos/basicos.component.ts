@@ -9,5 +9,5 @@ export class BasicosComponent {
   nameLower: string = 'junior';
   nameUpper: string = 'JUNIOR';
   fullName: string = 'jUnIoR QuIsPe';
-  date: Date = new Date(); // el día de hoy
+  date: Date = new Date();
 }
